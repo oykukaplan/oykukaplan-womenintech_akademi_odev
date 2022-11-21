@@ -1,4 +1,5 @@
 # Women in Tech Academy Ödevler
+![giphy](https://user-images.githubusercontent.com/114106816/203042374-89280306-1b07-472b-86e7-7fd07ca85b08.gif)
 
 ---
 
